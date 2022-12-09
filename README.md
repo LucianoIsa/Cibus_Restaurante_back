@@ -33,7 +33,7 @@ api/borrarCliente/{id}
 
 Ruta para obtener un cliente y su reserva
 GET
-api/obtenerContacto/{id}
+api/obtenerCliente/{id}
 {id} del clientes
 
 Ruta para obtener todos los clientes
